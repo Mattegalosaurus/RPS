@@ -49,5 +49,4 @@ let compare = function(choice1, choice2) {
 };
 
 let winner = compare(userChoice, computerChoice);
-
 document.write('The winner is: ' + winner);
